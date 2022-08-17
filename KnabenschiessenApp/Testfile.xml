@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personen>
+    <mitarbeitende>
+        <einsatzjahr>2022</einsatzjahr>
+        <einsatzort>Büro</einsatzort>
+        <geburtsdatum>1980-07-20</geburtsdatum>
+        <montag>Nein</montag>
+        <nachname>Caviezel</nachname>
+        <nummer>7</nummer>
+        <ort>Erlinsbach</ort>
+        <postleitzahl>5018</postleitzahl>
+        <samstag>Ja</samstag>
+        <sonntag>Nein</sonntag>
+        <strasse>Reformationsweg </strasse>
+        <telefonnummer>079 759 17 51</telefonnummer>
+        <vorname>Reto </vorname>
+    </mitarbeitende>
+    <mitarbeitende>
+        <einsatzjahr>2022</einsatzjahr>
+        <einsatzort>Tombola</einsatzort>
+        <geburtsdatum>1985-07-09</geburtsdatum>
+        <montag>Ja</montag>
+        <nachname>Dünner</nachname>
+        <nummer>10</nummer>
+        <ort>Affoltern am Albis</ort>
+        <postleitzahl>8910</postleitzahl>
+        <samstag>Ja</samstag>
+        <sonntag>Ja</sonntag>
+        <strasse>Obere Bahnhofstrasse</strasse>
+        <telefonnummer>079 987 65 43</telefonnummer>
+        <vorname>Ester</vorname>
+    </mitarbeitende>
+    <mitarbeitende>
+        <einsatzjahr>2022</einsatzjahr>
+        <einsatzort>Restaurant</einsatzort>
+        <geburtsdatum>1982-03-12</geburtsdatum>
+        <montag>Ja</montag>
+        <nachname>Huber</nachname>
+        <nummer>1</nummer>
+        <ort>Zürich</ort>
+        <postleitzahl>8050</postleitzahl>
+        <samstag>Nein</samstag>
+        <sonntag>Nein</sonntag>
+        <strasse>Musterstrasse</strasse>
+        <telefonnummer>0794444444</telefonnummer>
+        <vorname>Hans</vorname>
+    </mitarbeitende>
+    <mitarbeitende>
+        <einsatzjahr>2021</einsatzjahr>
+        <einsatzort>Restaurant</einsatzort>
+        <geburtsdatum>1970-12-01</geburtsdatum>
+        <montag>Nein</montag>
+        <nachname>Müller</nachname>
+        <nummer>1</nummer>
+        <ort>Winterthur</ort>
+        <postleitzahl>8400</postleitzahl>
+        <samstag>Ja</samstag>
+        <sonntag>Ja</sonntag>
+        <strasse>Bahnhofstrasse</strasse>
+        <telefonnummer>079456 55 55</telefonnummer>
+        <vorname>Peter</vorname>
+    </mitarbeitende>
+    <mitarbeitende>
+        <einsatzjahr>2021</einsatzjahr>
+        <einsatzort>Restaurant</einsatzort>
+        <geburtsdatum>1978-10-01</geburtsdatum>
+        <montag>Ja</montag>
+        <nachname>Grob</nachname>
+        <nummer>11</nummer>
+        <ort>Wetzikon</ort>
+        <postleitzahl>8910</postleitzahl>
+        <samstag>Ja</samstag>
+        <sonntag>Ja</sonntag>
+        <strasse>Obstweg</strasse>
+        <telefonnummer>079456 55 44</telefonnummer>
+        <vorname>Peter</vorname>
+    </mitarbeitende>
+</personen>

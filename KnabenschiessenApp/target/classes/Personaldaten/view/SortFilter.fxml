@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane prefHeight="465.0" prefWidth="803.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Personaldaten.view.SortFilterController">
+   <children>
+      <TableView fx:id="mitarbeitendeTable" layoutY="37.0" prefHeight="428.0" prefWidth="803.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="37.0">
+        <columns>
+          <TableColumn fx:id="vornameColumn" prefWidth="119.0" text="Vorname" />
+          <TableColumn fx:id="nachnameColumn" minWidth="0.0" prefWidth="125.0" text="Nachname" />
+            <TableColumn fx:id="einsatzortColumn" minWidth="0.0" prefWidth="158.0" text="Einsatzort" />
+            <TableColumn fx:id="samstagColumn" maxWidth="184.0" minWidth="0.0" prefWidth="123.0" text="Samstag" />
+            <TableColumn fx:id="sonntagColumn" maxWidth="184.0" minWidth="0.0" prefWidth="132.0" text="Sonntag" />
+            <TableColumn fx:id="montagColumn" maxWidth="184.0" minWidth="0.0" prefWidth="148.0" text="Montag" />
+        </columns>
+      </TableView>
+      <HBox alignment="CENTER" prefHeight="38.0" prefWidth="369.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="17.0" prefWidth="330.0" text="Filter nach Einsatzort und/oder Einsatztag" textAlignment="RIGHT" />
+            <TextField fx:id="filterField" alignment="BOTTOM_CENTER" prefHeight="19.0" prefWidth="149.0" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
